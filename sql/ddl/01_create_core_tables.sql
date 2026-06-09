@@ -1,0 +1,3 @@
+-- RiskOps AI Platform
+-- Sprint 1: Core Database Schema
+-- Purpose: Define foundational tables for transaction monitoring, risk analytics, chargeback analysis, and revenue reconciliation.
