@@ -1,0 +1,11 @@
+transaction_id,customer_id,account_id,card_id,merchant_id,transaction_timestamp,transaction_amount,currency,transaction_status,payment_channel,city,country,risk_score
+100001,101,201,301,401,2025-07-01 09:12:21,125.50,USD,Success,Credit Card,New York,USA,12
+100002,102,202,302,402,2025-07-01 09:25:11,890.75,USD,Success,Debit Card,Boston,USA,18
+100003,103,203,303,403,2025-07-01 10:02:45,2500.00,USD,Failed,Credit Card,Chicago,USA,84
+100004,104,204,304,404,2025-07-01 10:30:15,67.20,USD,Success,UPI,Dallas,USA,10
+100005,105,205,305,405,2025-07-01 11:15:32,9999.99,USD,Success,Credit Card,San Francisco,USA,92
+100006,106,206,306,406,2025-07-01 12:05:41,420.10,USD,Chargeback,Debit Card,Seattle,USA,76
+100007,107,207,307,407,2025-07-01 12:40:19,89.00,USD,Success,Mobile Wallet,Austin,USA,15
+100008,108,208,308,408,2025-07-01 13:55:50,1300.40,USD,Failed,Credit Card,Miami,USA,81
+100009,109,209,309,409,2025-07-01 14:21:16,55.75,USD,Success,Debit Card,Denver,USA,8
+100010,110,210,310,410,2025-07-01 15:48:22,7600.00,USD,Success,Credit Card,Los Angeles,USA,95
